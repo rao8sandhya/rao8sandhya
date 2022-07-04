@@ -7,6 +7,7 @@
 ## Repositories
 
 * https://github.com/rao8sandhya/rao8sandhya
+* https://github.com/rao8sandhya/school-misc
 * https://github.com/rao8sandhya/DSC5190-data-analytics-march-2022
 * https://github.com/rao8sandhya/DSC5240-bus-analytics-june-2022
 * https://github.com/rao8sandhya/google-cert-GCAIQ
